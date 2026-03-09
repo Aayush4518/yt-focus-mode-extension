@@ -39,7 +39,8 @@ This allows you to:
 ## 📦 Installation (Development Mode)
 
 1. Clone or download this repository.
-2. Open Chrome and navigate to:
+2. ```npm install``` in terminal.
+3. Open Chrome and navigate to:
 
 ```chrome://extensions/```
 
